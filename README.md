@@ -4,6 +4,7 @@
 - I'm passionate about **crochet, UI/UX design,** and **front-end development**—a mix of code and creativity!
 - I love turning complex problems into simple, beautiful designs, both in the digital and yarn world 🧶✨.
 - I’m currently diving deep into **React**, learning the art of building dynamic and user-friendly web apps.
+- 📚 A proud **suki of National Bookstore** and an avid reader of **Pinoy local books**—I love supporting Filipino authors and diving into their unique stories.
 
 ### 🌱 What I'm Learning:
 - 🚀 Currently leveling up my skills with **React** and **JavaScript** magic.
@@ -44,6 +45,7 @@
 
 ### 🌈 A Little Extra:
 - 🤝 **Volunteering at Tech Events** – I love being part of tech communities in **Davao City** and helping organize events to support fellow developers.
+- 📚 I’m also a big fan of **Pinoy local books** and you can usually find me browsing the shelves at **National Bookstore** for my next great read.
 - 💡 I believe in the magic of **learning by doing** and constantly evolving as a developer and designer.
 - ✨ **Fun side projects**: Creating crochet tutorials and launching an online crochet keychain shop soon!
 
